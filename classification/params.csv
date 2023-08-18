@@ -1,0 +1,6 @@
+Name,Value
+learning_rate,0.007
+batch_size,32
+num_layers,1
+num_units,[64]
+regularization_parameter,0.01
